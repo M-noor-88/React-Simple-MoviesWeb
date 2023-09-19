@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Simple-MoviesWeb/static/css/main.334bdeb1.css",
+    "main.js": "/React-Simple-MoviesWeb/static/js/main.b465df04.js",
+    "index.html": "/React-Simple-MoviesWeb/index.html",
+    "static/media/search.svg": "/React-Simple-MoviesWeb/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/React-Simple-MoviesWeb/static/css/main.334bdeb1.css.map",
+    "main.b465df04.js.map": "/React-Simple-MoviesWeb/static/js/main.b465df04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.b465df04.js"
+  ]
+}
